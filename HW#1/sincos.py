@@ -1,10 +1,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.arange(-4 * np.pi, 4 * np.pi, 0.01)
+x = np.arange(0, 2 * np.pi, 0.1)
 
 y = np.sin(x)
 z = np.cos(x)
+w = np.tan(x)
 
-plt.plot(x, y, x, z)
+plt.plot(x, y, x, z, x, w)
 plt.show()
