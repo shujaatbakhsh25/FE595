@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import csv
 
 
 def aggregate(gender):
@@ -16,15 +17,22 @@ def aggregate(gender):
 
     for i in os.listdir(os.path.join(os.getcwd(), "data")):
         if gender == "female":
-            if not i.startswith(".") and re.search(r'.*(she|her\s|female).*', i, re.IGNORECASE):
-                with open(os.path.join(os.getcwd(), "data", i)) as fR:
-                    fW.write(f'filename: {i}\n')
-                    for line in fR:
-                        fW.write(line)
+            if not i.startswith(".") and re.search(r'.*(she|her\.|female).*', i, re.IGNORECASE):
+                if ".csv" in i:
+                    with open(os.path.join(os.getcwd(), "data", i)) as fR:
+                        fW.write(f'\nfilename: {i}\n')
+                        for line in fR:
+                            fW.write(line)
+                else:
+                    with open(os.path.join(os.getcwd(), "data", i)) as fR:
+                        fW.write(f'\nfilename: {i}\n')
+                        for line in fR:
+                            fW.write(line)
+
         elif gender == "male":
-            if not i.startswith(".") and not re.search(r'.*(she|her\s|female).*', i, re.IGNORECASE):
+            if not i.startswith(".") and not re.search(r'.*(she|her\.|female).*', i, re.IGNORECASE):
                 with open(os.path.join(os.getcwd(), "data", i)) as fR:
-                    fW.write(f'filename: {i}\n')
+                    fW.write(f'\nfilename: {i}\n')
                     for line in fR:
                         fW.write(line)
 

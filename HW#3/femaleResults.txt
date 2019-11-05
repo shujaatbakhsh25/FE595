@@ -1,3 +1,4 @@
+
 filename: Female copy 7.txt
 She's a man-hating kleptomaniac queen of the dead with a birthmark shaped like Liberty's torch. 
 She's a violent cigar-chomping mermaid fleeing from a Satanic cult. 
@@ -49,6 +50,7 @@ She's a time-travelling nymphomaniac soap star who believes she is the reincarna
 She's a foxy out-of-work bodyguard with the soul of a mighty warrior. 
 She's a cosmopolitan kleptomaniac journalist living on borrowed time. 
 She's a provocative communist soap star living homeless in New York's sewers. 
+
 filename: female copy 6.txt
 She's a green-fingered junkie widow living homeless in New York's sewers.
 She's an enchanted nymphomaniac schoolgirl with a flame-thrower.
@@ -99,7 +101,8 @@ She's an artistic tempestuous femme fatale who hides her beauty behind a pair of
 She's a high-kicking mute socialite from a family of eight older brothers.
 She's a bloodthirsty nymphomaniac nun with her own daytime radio talk show.
 She's a mistrustful renegade fairy princess with the soul of a mighty warrior.
-She's an orphaned thirtysomething barmaid in the witness protection scheme.filename: female_characters copy.txt
+She's an orphaned thirtysomething barmaid in the witness protection scheme.
+filename: female_characters copy.txt
  She's a man-hating red-headed nun from a family of eight older brothers
  She's a mistrustful out-of-work snake charmer with a song in her heart and a spring in her step
  She's a warm-hearted nymphomaniac college professor who hides her beauty behind a pair of thick-framed spectacles
@@ -152,6 +155,7 @@ She's an orphaned thirtysomething barmaid in the witness protection scheme.filen
  She's a violent goth pearl diver with an incredible destiny
  She's a wealthy renegade mechanic living on borrowed time
  Circus
+
 filename: female copy 4.txt
  She's a manipulative out-of-work barmaid from Mars
  She's a sharp-shooting goth doctor fleeing from a Satanic cult
@@ -203,6 +207,7 @@ filename: female copy 4.txt
  They fight crime!
  She's a tortured mute queen of the dead from Mars
  She's a pregnant streetsmart vampire from beyond the grave They fight crime!
+
 filename: female copy 5.txt
 1:She's a provocative belly-dancing socialite with an evil twin sister. 
 2:She's a blind motormouth barmaid from beyond the grave 
@@ -254,6 +259,7 @@ filename: female copy 5.txt
 48:She's a hard-bitten snooty mechanic with a song in her heart and a spring in her step. 
 49:She's a strong-willed nymphomaniac safe cracker with her own daytime radio talk show. 
 50:She's a disco-crazy bisexual Valkyrie who hides her beauty behind a pair of thick-framed spectacles. 
+
 filename: Female_list.csv
 She's a hard-bitten psychic widow with someone else's memories,
 She's a strong-willed hip-hop soap star from beyond the grave ,
@@ -305,6 +311,7 @@ She's a mentally unstable psychic former first lady from aristocratic European s
 She's a manipulative belly-dancing museum curator with an incredible destiny,
 She's a foxy junkie mercenary who can talk to animals,
 She's a warm-hearted winged magician's assistant in the wrong place at the wrong time,
+
 filename: she copy 2.txt
 She's a wealthy African-American schoolgirl on her way to prison for a murder she didn't commit. 
 She's a pregnant nymphomaniac bodyguard from beyond the grave 
@@ -355,7 +362,8 @@ She's a virginal psychic museum curator with the soul of a mighty warrior.
 She's a time-travelling communist Valkyrie who don't take no shit from nobody. 
 She's a warm-hearted African-American socialite with an incredible destiny. 
 She's a ditzy mute lawyer from Mars. 
-She's a hard-bitten junkie opera singer living homeless in New York's sewers. filename: female copy 2.txt
+She's a hard-bitten junkie opera singer living homeless in New York's sewers. 
+filename: female copy 2.txt
 1:She's an artistic mutant queen of the dead who inherited a spooky stately manor from her late maiden aunt. 
 2:She's a ditzy impetuous hooker from out of town. 
 3:She's a cosmopolitan motormouth bodyguard with the power to see death. 
@@ -456,6 +464,7 @@ She's a hard-bitten junkie opera singer living homeless in New York's sewers. fi
 48:She's a cynical insomniac wrestler in the witness protection scheme. 
 49:She's a transdimensional foul-mouthed magician's assistant from a different time and place. 
 50:She's a vivacious kleptomaniac safe cracker in the wrong place at the wrong time. 
+
 filename: female copy 3.txt
 She's a ditzy blonde wrestler from the wrong side of the tracks. 
 She's an elegant junkie widow fleeing from a Satanic cult. 
@@ -507,6 +516,7 @@ She's a violent insomniac mermaid from beyond the grave
 She's a beautiful renegade pearl diver with an MBA from Harvard. 
 She's a strong-willed gypsy bounty hunter from out of town. 
 She's a supernatural insomniac socialite with a flame-thrower. 
+
 filename: female copy.txt
 She's a virginal tempestuous lawyer who hides her beauty behind a pair of thick-framed spectacles.
 She's a vivacious foul-mouthed nun with the soul of a mighty warrior.
@@ -558,6 +568,7 @@ She's an elegant renegade magician's assistant in the wrong place at the wrong t
 She's a brilliant mute pearl diver on her way to prison for a murder she didn't commit.
 She's an orphaned antique-collecting bodyguard with her own daytime radio talk show.
 She's a mistrustful hypochondriac advertising executive with a flame-thrower.
+
 filename: FemaleHeroes.txt
 She's a green-fingered motormouth traffic cop with an MBA from Harvard
 She's a disco-crazy snooty Valkyrie with the soul of a mighty warrior
@@ -608,7 +619,8 @@ She's a foxy snooty bounty hunter looking for love in all the wrong places
 She's a supernatural red-headed barmaid fleeing from a Satanic cult
 She's a psychotic blonde journalist with a knack for trouble
 She's a transdimensional renegade single mother who dreams of becoming Elvis
-She's an artistic tempestuous traffic cop from the wrong side of the tracksfilename: she copy.txt
+She's an artistic tempestuous traffic cop from the wrong side of the tracks
+filename: she copy.txt
  a wealthy gold-digging schoolgirl prone to fits of savage, blood-crazed rage.
  a transdimensional kleptomaniac detective from beyond the grave
  a man-hating winged nun trying to make a difference in a man\'s world.
@@ -659,6 +671,7 @@ She's an artistic tempestuous traffic cop from the wrong side of the tracksfilen
  a tortured kleptomaniac wrestler prone to fits of savage, blood-crazed rage.
  a transdimensional mute fairy princess who dreams of becoming Elvis.
  an artistic winged mermaid who hides her beauty behind a pair of thick-framed spectacles.
+
 filename: Female_Characters.txt
 She's a cosmopolitan mutant fairy princess descended from a line of powerful witches. 
 She's a foxy kleptomaniac politician on her way to prison for a murder she didn't commit. 
@@ -710,6 +723,7 @@ She's a man-hating cigar-chomping soap star who hides her beauty behind a pair o
 She's a radical cat-loving archaeologist descended from a line of powerful witches. 
 She's a scantily clad bisexual mechanic living homeless in New York's sewers. 
 She's a disco-crazy kleptomaniac pearl diver fleeing from a Satanic cult. 
+
 filename: shes.txt
 1. She's a wealthy renegade former first lady who don't take no shit from nobody
 2. She's a sharp-shooting streetsmart magician's assistant descended from a line of powerful witches
@@ -761,6 +775,7 @@ filename: shes.txt
 48. She's a provocative belly-dancing mercenary who hides her beauty behind a pair of thick-framed spectacles
 49. She's a violent African-American advertising executive from a family of eight older brothers
 50. She's an enchanted motormouth archaeologist married to the Mob
+
 filename: shesfile.txt
 She\'s a virginal communist Valkyrie operating on the wrong side of the law.
 She\'s a blind paranoid advertising executive with a knack for trouble.
@@ -812,6 +827,7 @@ She\'s a high-kicking tomboy single mother with an MBA from Harvard.
 She\'s a bloodthirsty punk archaeologist from beyond the grave
 She\'s a high-kicking blonde detective with a flame-thrower.
 She\'s a disco-crazy psychic angel with a knack for trouble.
+
 filename: Female_data.csv
 ,Female
 0,a beautiful nymphomaniac mermaid who hides her beauty behind a pair of thick-framed spectacles.
@@ -864,6 +880,7 @@ filename: Female_data.csv
 47,a hard-bitten mute Valkyrie who believes she is the reincarnation of an ancient Egyptian queen.
 48,a foxy French-Canadian museum curator with the power to see death.
 49,an enchanted mute angel married to the Mob.
+
 filename: femalefile.txt
 She's a pregnant mutant soap star with an MBA from Harvard. 
 She's a provocative bisexual pearl diver from a different time and place. 
@@ -915,6 +932,7 @@ She's a provocative gold-digging fairy princess from the wrong side of the track
 She's a wealthy blonde magician's assistant with the power to see death. 
 She's a sarcastic renegade bodyguard from beyond the grave 
 She's a supernatural belly-dancing mercenary with an incredible destiny. 
+
 filename: female.txt
  She's a cold-hearted cat-loving detective trying to make a difference in a man's world
  She's a cynical extravagent mercenary with the power to see death
@@ -968,6 +986,7 @@ filename: female.txt
  She's a man-hating streetsmart traffic cop from aristocratic European stock
 
 
+
 filename: SHE.txt
 She's a bloodthirsty motormouth lawyer from aristocratic European stock. 
 She's a plucky kleptomaniac stripper from Mars. 
@@ -1019,3 +1038,54 @@ She's a cynical blonde politician on the trail of a serial killer.
 She's a strong-willed out-of-work pearl diver from a different time and place. 
 She's a time-travelling French-Canadian socialite with her own daytime radio talk show. 
 She's a cynical belly-dancing bodyguard in the witness protection scheme. 
+filename: her.txt
+She's a manipulative foul-mouthed snake charmer from a family of eight older brothers. 
+She's a tortured motormouth mercenary from a secret island of warrior women. 
+She's a mentally unstable out-of-work mercenary in the witness protection scheme. 
+She's a ditzy tomboy soap star living on borrowed time. 
+She's a cynical thirtysomething lawyer from aristocratic European stock. 
+She's a high-kicking African-American research scientist from out of town. 
+She's an elegant wisecracking queen of the dead from out of town. 
+She's a time-travelling foul-mouthed socialite who believes she is the reincarnation of an ancient Egyptian queen. 
+She's a strong-willed cigar-chomping politician fleeing from a Satanic cult. 
+She's a disco-crazy winged magician's assistant from out of town. 
+She's a transdimensional African-American Hell's Angel who inherited a spooky stately manor from her late maiden aunt. 
+She's a tortured wisecracking bodyguard with someone else's memories. 
+She's a radical insomniac hooker from beyond the grave 
+She's a radical antique-collecting bodyguard living on borrowed time. 
+She's a virginal blonde mermaid living on borrowed time. 
+She's a manipulative bisexual stripper descended from a line of powerful witches. 
+She's a radical insomniac soap star with the power to see death. 
+She's an orphaned cigar-chomping vampire with only herself to blame. 
+She's a violent bisexual lawyer from Mars. 
+She's an orphaned winged college professor who inherited a spooky stately manor from her late maiden aunt. 
+She's a blind kleptomaniac schoolgirl with an incredible destiny. 
+She's a brilliant motormouth bodyguard with an incredible destiny. 
+She's a chain-smoking hip-hop former first lady from aristocratic European stock. 
+She's a foxy motormouth angel who dreams of becoming Elvis. 
+She's a cold-hearted antique-collecting Hell's Angel with her own daytime radio talk show. 
+She's a hard-bitten winged detective living on borrowed time. 
+She's an artistic green-skinned Valkyrie descended from a line of powerful witches. 
+She's a mentally unstable paranoid opera singer operating on the wrong side of the law. 
+She's a brilliant bisexual safe cracker with someone else's memories. 
+She's a strong-willed renegade angel who can talk to animals. 
+She's an orphaned cat-loving detective prone to fits of savage, blood-crazed rage. 
+She's an artistic mute fairy princess from out of town. 
+She's a ditzy out-of-work opera singer fleeing from a Satanic cult. 
+She's a foxy foul-mouthed vampire who believes she is the reincarnation of an ancient Egyptian queen. 
+She's a cynical mute wrestler from a secret island of warrior women. 
+She's a transdimensional hypochondriac mercenary who hides her beauty behind a pair of thick-framed spectacles. 
+She's a tortured punk doctor living on borrowed time. 
+She's a pregnant thirtysomething soap star who don't take no shit from nobody. 
+She's a chain-smoking Bolivian queen of the dead living on borrowed time. 
+She's a radical kleptomaniac journalist with a song in her heart and a spring in her step. 
+She's an orphaned tomboy wrestler looking for love in all the wrong places. 
+She's a sarcastic wisecracking former first lady who can talk to animals. 
+She's a brilliant African-American research scientist operating on the wrong side of the law. 
+She's a plucky blonde politician from a different time and place. 
+She's an artistic winged opera singer in the witness protection scheme. 
+She's an orphaned cigar-chomping safe cracker in the wrong place at the wrong time. 
+She's a cosmopolitan nymphomaniac widow living on borrowed time. 
+She's a man-hating tempestuous single mother on her way to prison for a murder she didn't commit. 
+She's a vivacious nymphomaniac magician's assistant prone to fits of savage, blood-crazed rage. 
+She's a mentally unstable hypochondriac schoolgirl who can talk to animals. 
